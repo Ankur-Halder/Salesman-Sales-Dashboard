@@ -8,8 +8,6 @@ Here is a screenshot of the dashboard:
 
 ![Sales Dashboard](Sales_Dashboard_page.jpg)
 
-A PDF version of the dashboard is also available: [Sales Dashboard.pdf](Sales%20Dashboard.pdf)
-
 ## Data Source
 
 The dashboard is based on the data in the following Excel file:
