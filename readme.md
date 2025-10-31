@@ -6,7 +6,7 @@ This repository contains a Power BI sales dashboard that provides insights into 
 
 Here is a screenshot of the dashboard:
 
-![Sales Dashboard](Screenshot%202025-08-06%20202940.png)
+![Sales Dashboard](Sales_Dashboard_page.jpg)
 
 A PDF version of the dashboard is also available: [Sales Dashboard.pdf](Sales%20Dashboard.pdf)
 
